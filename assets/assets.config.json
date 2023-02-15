@@ -1,0 +1,122 @@
+{
+  "burgerIcon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burgerHeroSection.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "brand4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mainDishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfastMenu.svg": {
+    "mime": "image/svg+xml"
+  },
+  "aboutUsBurger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "mailIcon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "locationIcon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "callIcon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "location.svg": {
+    "mime": "image/svg+xml"
+  },
+  "regularSodaMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "eggToastMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chickenBurgerMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "iceCreamMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pancakesMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "classicFriesMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "choclateMilkshakeMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "classicBurgerMenu.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "articleBurger2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "articlePastery.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "articleChickenBurger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "articleFries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "articleBurger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "rightArrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "leftArrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "fiveStars.svg": {
+    "mime": "image/svg+xml"
+  },
+  "largeBurger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "profile.jpg": {
+    "mime": "image/jpeg"
+  },
+  "instaCoca.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "instaHotDog.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "instaFries2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "instaBurger2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "instaFries1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ins.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "instaBurger1.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
